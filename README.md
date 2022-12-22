@@ -9,6 +9,8 @@
 
 - REACT-JS
 - JAVASCRIPT
+- AXIOS ( API )
+- STYLED-COMPONENTS
 
 ## 📚 Contato
 
